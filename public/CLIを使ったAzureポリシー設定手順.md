@@ -10,7 +10,7 @@ slide: false
 ignorePublish: false
 ---
 ## はじめに
-zure PolicyをCLIで設定する具体的な手順を解説します。
+Azure PolicyをCLIで設定する具体的な手順を解説します。
 初めてCLIを使用する方でも操作イメージをつかめる内容です。
 
 ### そもそもAzureで使用できるCLIは？
