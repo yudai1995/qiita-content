@@ -1,10 +1,10 @@
 ---
 title: CLIを使ったAzure Policy設定手順
 tags:
-  - 'Azure'
+  - Azure
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-03-27T02:08:15+09:00'
+id: e4ac32e4832c99dd4471
 organization_url_name: null
 slide: false
 ignorePublish: false
