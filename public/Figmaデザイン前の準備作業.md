@@ -1,10 +1,10 @@
 ---
 title: Figmaデザイン前の準備作業
 tags:
-  - 'Figma'
+  - Figma
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-04-05T00:09:14+09:00'
+id: c633c9429547692bf4fb
 organization_url_name: null
 slide: false
 ignorePublish: false
